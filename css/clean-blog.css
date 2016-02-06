@@ -4,6 +4,9 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
+nav.navbar.navbar-default.navbar-custom.navbar-fixed-top {
+   display: -webkit-inline-box;
+}
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
