@@ -20,4 +20,4 @@ import { AlertModule } from 'ng2-bootstrap/ng2-bootstrap';
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+  export class AppModule { }
